@@ -1,1 +1,1 @@
-# Image-Enhancement
+# Doku ve Hücre Görüntülerinin İyileştirilmesi
