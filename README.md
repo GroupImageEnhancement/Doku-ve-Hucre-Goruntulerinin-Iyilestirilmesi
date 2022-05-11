@@ -1,1 +1,7 @@
 # Doku ve Hücre Görüntülerinin İyileştirilmesi
+
+>Zeynep Ovgu YAYCI
+>Zeynep Betul KAYA
+>Ugur DURA
+
+Doku goruntuleme cihazlarında bulunan donanımsal yetersizlikleri dolayısıyla, 100 kat (ve üzeri) görüntü yakınlaştırma oranlarında görüntüleme kalitesi kötüleşmekte ve gürültülü, bulanık, renk sapmaları olan düşük kontrast ve düşük kaliteli görüntüler elde edilmektedir. Bu projede bu tip biyomedikal görüntülerin işaret ve görüntü işleme yöntemleri ile iyileştirilmesi hedeflenmiştir. Geliştirilen yöntemle mobil mikroskoplardan elde edilen doku ve hücre görüntüleri temel bileşen analizi, iyi ışıklılık ve doygunluk haritalamaları, histogram eşleştirme ve çeşitli filtreleme yöntemleri kullanılarak iyileştirilmiştir.Önerilen görüntü iyileştirme çıktıları ile üst düzey bir mikroskop görüntü kalitesine yaklaşılmış olup, her türlü düşük maliyetli ve düşük çözünürlüğe sahip mikroskobik görüntüleme cihazlarına basit parametre değişimleriyle uyarlanabilir hale getirilmiştir. Ayrıca, alanyazında bulunan farklı algoritmalar ile istatistiksel olarak karşılaştırılmalar yapılmıştır. Yapılan testler ve analizler, geliştirilen özgün metodun, düşük maliyetli ve daha kolay tıbbi görüntüleme yapabilme yolunda, alanyazında bulunan algoritmalara göre daha başarılı olduğunu göstermektedir.
